@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_2125057\\GameModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C383FE4F-03D9-2A6B-89B3-A04A0166B16F}|Assembly-CSharp.csproj|d:\\unity_2125057\\gamemodule\\assets\\script\\uishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C383FE4F-03D9-2A6B-89B3-A04A0166B16F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C383FE4F-03D9-2A6B-89B3-A04A0166B16F}|Assembly-CSharp.csproj|d:\\unity_2125057\\gamemodule\\assets\\script\\uishopitemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C383FE4F-03D9-2A6B-89B3-A04A0166B16F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uishopitemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity_2125057\\GameModule\\Assets\\Script\\UiItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\UiItemSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UiShop.cs",
+              "DocumentMoniker": "D:\\Unity_2125057\\GameModule\\Assets\\Script\\UiShop.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UiShop.cs",
+              "ToolTip": "D:\\Unity_2125057\\GameModule\\Assets\\Script\\UiShop.cs",
+              "RelativeToolTip": "Assets\\Script\\UiShop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:39:51.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UiShopitemSlot.cs",
+              "DocumentMoniker": "D:\\Unity_2125057\\GameModule\\Assets\\Script\\UiShopitemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UiShopitemSlot.cs",
+              "ToolTip": "D:\\Unity_2125057\\GameModule\\Assets\\Script\\UiShopitemSlot.cs",
+              "RelativeToolTip": "Assets\\Script\\UiShopitemSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:38:14.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UiItemSlot.cs",
+              "DocumentMoniker": "D:\\Unity_2125057\\GameModule\\Assets\\Script\\UiItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UiItemSlot.cs",
+              "ToolTip": "D:\\Unity_2125057\\GameModule\\Assets\\Script\\UiItemSlot.cs",
+              "RelativeToolTip": "Assets\\Script\\UiItemSlot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:38:10.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
